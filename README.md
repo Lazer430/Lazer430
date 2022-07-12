@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Lazer430 and I am a computer science student at NUCES (PAK). 
+- 👋 Hi, I’m @Lazer430 and I am a computer science student at National University of Computing and Emerging Sciences (FAST Pakistan). 
 - 👀 I’m interested in learning to code in various langueages and using APIs to build my knowledge of the world of computers.
-- 🌱 I’m currently learning c++, arduino, python, MATLAB, assembly MASM, java and flutter. 
+- 🌱 I’m currently learning c++, arduino, python, MATLAB, assembly MASM, java. 
 - 💞️ I’m looking to collaborate on any related projects which would help me broaden my knowlege and get the hang of things in this field.
 - 📫 The best way to reach me is through my email.
 
